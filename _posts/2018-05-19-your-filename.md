@@ -18,9 +18,7 @@ Click here to see the [demo](https://arcane-plains-26721.herokuapp.com/query?key
 - Example queries: 
 
 	https://arcane-plains-26721.herokuapp.com/query?key_word=shanghai&search_type=port
-    
     https://arcane-plains-26721.herokuapp.com/query?key_word=YUEJIANGCHENG90609&location=CN
-    
     https://arcane-plains-26721.herokuapp.com/query?key_word=edward
 
 ### Set Up
