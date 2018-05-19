@@ -11,5 +11,15 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 - Deployed on Heroku. 
 - Provided search parameters to search vessel by vessel ID/port/name/location. 
 
-Click here to see the [demo](https://arcane-plains-26721.herokuapp.com/query?key_word=shanghai&location=CN&search_type=Vessel). You can change the search parameters in the link by different business needs.
+Click here to see the [demo](https://arcane-plains-26721.herokuapp.com/query?key_word=shanghai&location=CN&search_type=Vessel). 
 
+### Instruction
+- You can change the search by different parameters, which are not case sensitive. 
+- Example queries: 
+
+	https://arcane-plains-26721.herokuapp.com/query?key_word=shanghai&search_type=port
+    
+    https://arcane-plains-26721.herokuapp.com/query?key_word=YUEJIANGCHENG90609&location=CN
+    
+    https://arcane-plains-26721.herokuapp.com/query?key_word=edward
+    
