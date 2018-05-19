@@ -20,12 +20,13 @@ Click here to see the [demo](https://arcane-plains-26721.herokuapp.com/query?key
     
 	request: GET /query?key_word=shanghai&search_type=port
     
-    2. fetch data by vessel name and vessel location 
-    request: GET query?key_word=YUEJIANGCHENG90609&location=CN
-    https://arcane-plains-26721.herokuapp.com/query?key_word=YUEJIANGCHENG90609&location=CN
+    [2. fetch data by vessel name and vessel location](https://arcane-plains-26721.herokuapp.com/query?key_word=YUEJIANGCHENG90609&location=CN)
     
-    3. fetch data by name
-    https://arcane-plains-26721.herokuapp.com/query?key_word=edward
+    request: GET query?key_word=YUEJIANGCHENG90609&location=CN
+    
+    
+    [3. fetch data by name](https://arcane-plains-26721.herokuapp.com/query?key_word=edward)
+    request: GET /query?key_word=edward
 
 ### Set Up
 1. Install Python 3.x enviroment.
