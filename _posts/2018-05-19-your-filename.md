@@ -17,7 +17,7 @@ Click here to see the [demo](https://arcane-plains-26721.herokuapp.com/query?key
 - You can change the search by different parameters, which are not case sensitive. 
 - Example queries: 
 	1. fetch data by port name and filter data by port type
-    request: GET /query?key_word=shanghai&search_type=port 
+    	request: GET /query?key_word=shanghai&search_type=port 
     return: JSON(title, company, cleaned description, applied date)
 	https://arcane-plains-26721.herokuapp.com/query?key_word=shanghai&search_type=port
     
