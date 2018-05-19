@@ -22,6 +22,7 @@ Click here to see the [demo](https://arcane-plains-26721.herokuapp.com/query?key
     https://arcane-plains-26721.herokuapp.com/query?key_word=YUEJIANGCHENG90609&location=CN
     
     https://arcane-plains-26721.herokuapp.com/query?key_word=edward
+
 ### Set Up
 1. Install Python 3.x enviroment.
 2. Install Python packages by running pip install -r requirements.txt .
